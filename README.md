@@ -1,6 +1,6 @@
 # GiGi Blog
 
-Welcome to the **GiGi Blog**! This repository is dedicated to sharing knowledge and insights on graph technology, data visualization, and related topics. Whether you're a seasoned expert or just starting your journey in the world of graphs, we invite you to explore, contribute, and engage with our content. This repository serves as the version-controlled home for all blog content, enabling easy contributions, reviews, and scheduling of releases.
+Welcome to the **GiGi Blog**! This repository is dedicated to sharing knowledge and insights on graph technology, graph visualization, analytics, and related topics. Whether you're a seasoned expert or just starting your journey in the world of graphs, we invite you to explore, contribute, and engage with our content. This repository serves as the version-controlled home for all blog content, enabling easy contributions, reviews, and scheduling of releases.
 
 ## Table of Contents
 
