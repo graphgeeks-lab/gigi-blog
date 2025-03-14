@@ -21,6 +21,10 @@ We welcome contributions from everyone! If you'd like to submit a blog post or s
 ## Blog Structure
 
 The blog's content is organized into posts, drafts, and images. All contributions should follow the structure outlined in this repository to ensure consistency and ease of navigation.
+- **content/**: This folder contains all blog-related content.
+  - **posts/**: Individual blog posts written in Markdown format.
+  - **images/**: Any images used within the blog posts.
+  - **drafts/**: Drafts of future posts that are in progress.
 
 ## Getting Started
 
